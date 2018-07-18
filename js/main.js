@@ -25,19 +25,19 @@ function myFunk(){
 	userInput.value = ' '
 
 	}
-}
+};
 
 function sortFunk(){
 	newEmpty.sort()
 	appendFunk()
-}
+};
 
 function popFunk(){
 	newEmpty.pop()
 	appendFunk()
-}
+};
 
 function shiftFunk(){
 	newEmpty.shift()
 	appendFunk()
-}
+};
